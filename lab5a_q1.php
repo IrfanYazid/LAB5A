@@ -2,24 +2,12 @@
 
 <head>
     <title>Lab 5a Q1</title>
-    <style>
-        table {
-            width: 60%;
-            border-collapse: collapse;
-            margin: 20px auto;
-            font-family: Arial, sans-serif;
-        }
-        td {
-            padding: 10px;
-            border: 1px solid #000;
-        }
-        th {
-            background-color: #f2f2f2;
-            text-align: left;
-            padding: 10px;
-            border: 1px solid #000;
-        }
+<style>
+        table, th, td {
+  border: 1px solid black;
+}
     </style>
+
 </head>
 <body>
     <?php 
